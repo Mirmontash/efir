@@ -1,0 +1,470 @@
+{
+ "p-aristotle": {
+  "file": "img/p-aristotle.jpg",
+  "title": "Aristotle",
+  "name": "Aristotle_Altemps_Inv8575.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Aristotle_Altemps_Inv8575.jpg",
+  "artist": "After Lysippos",
+  "license": "Public domain",
+  "desc": "Bust of Aristotle. Marble, Roman copy after a Greek bronze original by Lysippos from 330 BC; the alabaster mantle is a modern addition."
+ },
+ "p-huygens": {
+  "file": "img/p-huygens.jpeg",
+  "title": "Christiaan Huygens",
+  "name": "Christiaan_Huygens-painting.jpeg",
+  "page": "https://commons.wikimedia.org/wiki/File:Christiaan_Huygens-painting.jpeg",
+  "artist": "Caspar Netscher",
+  "license": "Public domain",
+  "desc": ""
+ },
+ "p-descartes": {
+  "file": "img/p-descartes.jpg",
+  "title": "René Descartes",
+  "name": "Frans_Hals_-_Portret_van_René_Descartes.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Frans_Hals_-_Portret_van_Ren%C3%A9_Descartes.jpg",
+  "artist": "After Frans Hals",
+  "license": "Public domain",
+  "desc": ""
+ },
+ "p-newton": {
+  "file": "img/p-newton.jpg",
+  "title": "Isaac Newton",
+  "name": "Portrait_of_Sir_Isaac_Newton,_1689_(brightened).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Portrait_of_Sir_Isaac_Newton,_1689_(brightened).jpg",
+  "artist": "Godfrey Kneller",
+  "license": "Public domain",
+  "desc": ""
+ },
+ "p-lesage": {
+  "file": "img/p-lesage.jpg",
+  "title": "Georges-Louis Le Sage",
+  "name": "Georges-Louis_Le_Sage.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Georges-Louis_Le_Sage.jpg",
+  "artist": "Created around 1780",
+  "license": "Public domain",
+  "desc": "Georges-Louis Le Sage"
+ },
+ "p-young": {
+  "file": "img/p-young.jpg",
+  "title": "Thomas Young (scientist)",
+  "name": "Thomas_Young_by_Briggs_cropped.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Thomas_Young_by_Briggs_cropped.jpg",
+  "artist": "Henry Perronet Briggs",
+  "license": "CC BY-SA 4.0",
+  "desc": "Portrait of Thomas Young"
+ },
+ "p-fresnel": {
+  "file": "img/p-fresnel.jpg",
+  "title": "Augustin-Jean Fresnel",
+  "name": "Augustin_Fresnel.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Augustin_Fresnel.jpg",
+  "artist": "E Rosette after a painting by A Tardieu",
+  "license": "Public domain",
+  "desc": "Portrait of Augustin-Jean Fresnel, c. 1825, photo-mechanical copy of engraving by E Rosette after a painting by A Tardieu, copied from Plate II, Light and Colour, by RA Houstoun, 1903, and used in fro"
+ },
+ "p-fizeau": {
+  "file": "img/p-fizeau.jpg",
+  "title": "Hippolyte Fizeau",
+  "name": "Armand_Hippolyte_Louis_Fizeau_by_Eugène_Pirou_-_Original.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Armand_Hippolyte_Louis_Fizeau_by_Eug%C3%A8ne_Pirou_-_Original.jpg",
+  "artist": "Eugène Pirou (1841-1909)",
+  "license": "Public domain",
+  "desc": "Photograph of physicist Armand Hippolyte Louis Fizeau"
+ },
+ "p-stokes": {
+  "file": "img/p-stokes.jpg",
+  "title": "Sir George Stokes, 1st Baronet",
+  "name": "Portrait_of_George_Gabriel_Stokes_(1819-1903),_Physicist_and_Mathematician_(2551115803).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Portrait_of_George_Gabriel_Stokes_(1819-1903),_Physicist_and_Mathematician_(2551115803).jpg",
+  "artist": "Smithsonian Institution from United States",
+  "license": "No restrictions",
+  "desc": "Creator/Photographer: Unidentified photographer Medium: Medium unknown Dimensions: 9.2 cm x 5.8 cm Date: prior to1903 Collection: Scientific Identity: Portraits from the Dibner Library of the History "
+ },
+ "p-maxwell": {
+  "file": "img/p-maxwell.jpg",
+  "title": "James Clerk Maxwell",
+  "name": "James-Clerk-Maxwell-1831-1879.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:James-Clerk-Maxwell-1831-1879.jpg",
+  "artist": "Unknown authorUnknown author",
+  "license": "Public domain",
+  "desc": "James Clerk Maxwell"
+ },
+ "p-kelvin": {
+  "file": "img/p-kelvin.jpg",
+  "title": "Lord Kelvin",
+  "name": "Sir_William_Thomson,_Baron_Kelvin_by_T._&_R._Annan_&_Sons.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Sir_William_Thomson,_Baron_Kelvin_by_T._%26_R._Annan_%26_Sons.jpg",
+  "artist": "T. &amp; R. Annan &amp; Sons; restored by Adam Cuerden[1]",
+  "license": "Public domain",
+  "desc": "\"Sir William Thomson, Baron Kelvin, 1824 - 1907. Scientist, resting on a binnacle and holding a marine azimuth mirror\" Carbon print, 19.00 x 14.70 cm"
+ },
+ "p-reichenbach": {
+  "file": "img/p-reichenbach.jpg",
+  "title": "Carl Reichenbach",
+  "name": "Karl_Reichenbach.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Karl_Reichenbach.jpg",
+  "artist": "Rudolph Hoffmann",
+  "license": "Public domain",
+  "desc": "Carl Reichenbach (1788–1869)"
+ },
+ "p-michelson": {
+  "file": "img/p-michelson.jpg",
+  "title": "Albert A. Michelson",
+  "name": "Albert_Abraham_Michelson2.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Albert_Abraham_Michelson2.jpg",
+  "artist": "The original uploader was Bunzil at English Wikipedia.",
+  "license": "Public domain",
+  "desc": "Photograph of Nobel Laureate Albert A. Michelson."
+ },
+ "p-morley": {
+  "file": "img/p-morley.jpg",
+  "title": "Edward W. Morley",
+  "name": "Morley,_Edward_1885_-_DPLA_-_14e3c8f7e1c1b3728376637d7c07405e.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Morley,_Edward_1885_-_DPLA_-_14e3c8f7e1c1b3728376637d7c07405e.jpg",
+  "artist": "",
+  "license": "Public domain",
+  "desc": "Edward Williams Morely, 1838-1923, was a scientist and professor at Western Reserve University."
+ },
+ "p-miller": {
+  "file": "img/p-miller.jpg",
+  "title": "Dayton Miller",
+  "name": "Dayton_Miller_1921_crop.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Dayton_Miller_1921_crop.jpg",
+  "artist": "Dayton_Miller_1921.jpg: unknown derivative work: Nesnad (talk)",
+  "license": "Public domain",
+  "desc": "Dayton Miller in 1921. Head and shoulders portrait of Dayton C. Miller. He was an American physicist, astronomer, acoustician, and accomplished amateur flautist. In the picture he is turned slightly l"
+ },
+ "p-mendeleev": {
+  "file": "img/p-mendeleev.jpg",
+  "title": "Dmitri Mendeleev",
+  "name": "Dmitri_Mendeleev.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Dmitri_Mendeleev.jpg",
+  "artist": "Original: Unknown authorUnknown author Upload: Germansociety2014",
+  "license": "Public domain",
+  "desc": "드미트리 멘델레예프(1834~1907), 주기율표를 처음 발견하였다."
+ },
+ "p-lorentz": {
+  "file": "img/p-lorentz.jpg",
+  "title": "Hendrik Lorentz",
+  "name": "Nobelprijswinnaars._H.A._Lorentz_(cropped).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Nobelprijswinnaars._H.A._Lorentz_(cropped).jpg",
+  "artist": "Unknown authorUnknown author",
+  "license": "PDM-owner",
+  "desc": "Nobel laureates. H.A. Lorentz (1853-1928)"
+ },
+ "p-poincare": {
+  "file": "img/p-poincare.png",
+  "title": "Henri Poincaré",
+  "name": "PSM_V82_D416_Henri_Poincare.png",
+  "page": "https://commons.wikimedia.org/wiki/File:PSM_V82_D416_Henri_Poincare.png",
+  "artist": "Unknown authorUnknown author",
+  "license": "Public domain",
+  "desc": "Henri Poincaré"
+ },
+ "p-einstein": {
+  "file": "img/p-einstein.jpg",
+  "title": "Albert Einstein",
+  "name": "Albert_Einstein_Head_cleaned.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Albert_Einstein_Head_cleaned.jpg",
+  "artist": "Oren Jack Turner",
+  "license": "Public domain",
+  "desc": "Albert Einstein"
+ },
+ "p-blavatsky": {
+  "file": "img/p-blavatsky.jpg",
+  "title": "Helena Blavatsky",
+  "name": "Helena_Petrovna_Blavatsky.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Helena_Petrovna_Blavatsky.jpg",
+  "artist": "Unsure",
+  "license": "Public domain",
+  "desc": "Founder of the Theosophical Society Elena Petrovna Gan (HP Blavatsky), born in Russia 1831 - died in England 1891"
+ },
+ "p-steiner": {
+  "file": "img/p-steiner.jpg",
+  "title": "Rudolf Steiner",
+  "name": "Steiner_um_1905.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Steiner_um_1905.jpg",
+  "artist": "Otto Rietmann",
+  "license": "Public domain",
+  "desc": "de:Rudolf Steiner"
+ },
+ "p-tesla": {
+  "file": "img/p-tesla.jpeg",
+  "title": "Nikola Tesla",
+  "name": "Tesla_circa_1890.jpeg",
+  "page": "https://commons.wikimedia.org/wiki/File:Tesla_circa_1890.jpeg",
+  "artist": "Napoleon Sarony",
+  "license": "Public domain",
+  "desc": "A photograph image of Nikola Tesla (1856-1943) at age 34."
+ },
+ "p-reich": {
+  "file": "img/p-reich.jpg",
+  "title": "Wilhelm Reich",
+  "name": "Wilhelm_Reich.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Wilhelm_Reich.jpg",
+  "artist": "Ludwig Gutmann",
+  "license": "Public domain",
+  "desc": "Wilhelm Reich, fotografiert von L. Gutmann, Wien"
+ },
+ "p-dirac": {
+  "file": "img/p-dirac.jpg",
+  "title": "Paul Dirac",
+  "name": "Paul_Dirac,_1933.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Paul_Dirac,_1933.jpg",
+  "artist": "Nobel Foundation",
+  "license": "Public domain",
+  "desc": "Paul Dirac"
+ },
+ "p-casimir": {
+  "file": "img/p-casimir.jpg",
+  "title": "Hendrik Casimir",
+  "name": "Hendrik_Casimir_(1958).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Hendrik_Casimir_(1958).jpg",
+  "artist": "Anefo",
+  "license": "CC BY-SA 3.0",
+  "desc": "Prof. Dr. H. B. G. Casimir, lid Raad van Bestuur 29 oktober 1958"
+ },
+ "p-lamb": {
+  "file": "img/p-lamb.jpg",
+  "title": "Willis Lamb",
+  "name": "Willis_E._Lamb.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Willis_E._Lamb.jpg",
+  "artist": "Credit Line: AIP Emilio Segrè Visual Archives, W. F. Meggers Gallery of Nobel Laureates Collection",
+  "license": "Copyrighted free use",
+  "desc": "Willis E. Lamb. Nobel Prize in Physics won for discoveries concerning fine structure of the hydrogen spectrum."
+ },
+ "p-kozyrev": {
+  "file": "img/p-kozyrev.png",
+  "title": "Nikolai Aleksandrovich Kozyrev",
+  "name": "Nikolai_Aleksandrovich_Kozyrev_in_1959.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Nikolai_Aleksandrovich_Kozyrev_in_1959.png",
+  "artist": "Unknown authorUnknown author",
+  "license": "CC0",
+  "desc": "Nikolai Aleksandrovich Kozyrev in 1959"
+ },
+ "p-higgs": {
+  "file": "img/p-higgs.jpg",
+  "title": "Peter Higgs",
+  "name": "Nobel_Prize_24_2013_(cropped).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Nobel_Prize_24_2013_(cropped).jpg",
+  "artist": "Bengt Nyman",
+  "license": "CC BY 2.0",
+  "desc": "Nobel Laureates 2013 press conference at the Royal Swedish Academy of Sciences in December 2013"
+ },
+ "p-perlmutter": {
+  "file": "img/p-perlmutter.jpg",
+  "title": "Saul Perlmutter",
+  "name": "Saul_Perlmutter_375e309_by_Christopher_Michel_8202024_01.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Saul_Perlmutter_375e309_by_Christopher_Michel_8202024_01.jpg",
+  "artist": "Christopher Michel",
+  "license": "CC BY-SA 4.0",
+  "desc": "Saul Perlmutter in 2024 at Berkeley Lab"
+ },
+ "p-riess": {
+  "file": "img/p-riess.jpg",
+  "title": "Adam Riess",
+  "name": "Nobel_Prize_2011-Press_Conference_KVA-DSC_7764.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Nobel_Prize_2011-Press_Conference_KVA-DSC_7764.jpg",
+  "artist": "Holger Motzkau",
+  "license": "CC BY-SA 3.0",
+  "desc": "Nobel Prize 2011, press conference with the laureates of the Nobel prizes in chemistry and physics and the memorial prize in economic sciences at the Royal Swedish Academy of Sciences."
+ },
+ "p-unruh": {
+  "file": "img/p-unruh.jpg",
+  "title": "W. G. Unruh",
+  "name": "Wgunruh_phys407.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Wgunruh_phys407.jpg",
+  "artist": "Childrenofthedragon",
+  "license": "Public domain",
+  "desc": "Dr. William G. Unruh is teaching a class on General Relativity"
+ },
+ "p-leadbeater": {
+  "file": "img/p-leadbeater.jpg",
+  "title": "Charles Webster Leadbeater",
+  "name": "CWL_1914.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:CWL_1914.jpg",
+  "artist": "www.spiritwritings.com/cwleadbeater.jpg",
+  "license": "Public domain",
+  "desc": "Charles Webster Leadbeater en 1914"
+ },
+ "p-penzias": {
+  "file": "img/p-penzias.jpg",
+  "title": "Arno Allan Penzias",
+  "name": "32._Tagung_1982_Physiker;_Beim_Studentenabend_Arno_A._Penzias_-_W134Nr.119142_-_Willy_Pragher_(cropped).jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:32._Tagung_1982_Physiker;_Beim_Studentenabend_Arno_A._Penzias_-_W134Nr.119142_-_Willy_Pragher_(cropped).jpg",
+  "artist": "Willy Pragher",
+  "license": "CC BY 3.0 de",
+  "desc": "Photograph by Willy Pragher"
+ },
+ "c-qi": {
+  "file": "img/c-qi.jpg",
+  "title": "Qi",
+  "name": "Qi_3_forms.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Qi_3_forms.jpg",
+  "artist": "",
+  "license": "Public domain",
+  "desc": ""
+ },
+ "c-luminiferous": {
+  "file": "img/c-luminiferous.png",
+  "title": "Luminiferous aether",
+  "name": "AetherWind.svg",
+  "page": "https://commons.wikimedia.org/wiki/File:AetherWind.svg",
+  "artist": "No machine-readable author provided. Cronholm144 assumed (based on copyright claims).",
+  "license": "CC BY-SA 3.0",
+  "desc": "svg"
+ },
+ "c-fizeau": {
+  "file": "img/c-fizeau.png",
+  "title": "Fizeau experiment",
+  "name": "Fizeau-Mascart2.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Fizeau-Mascart2.png",
+  "artist": "Éleuthère Mascart",
+  "license": "Public domain",
+  "desc": "Fizeau-Experiment from 1851 (2)"
+ },
+ "c-odic": {
+  "file": "img/c-odic.jpg",
+  "title": "Odic force",
+  "name": "Karl_Reichenbach.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Karl_Reichenbach.jpg",
+  "artist": "Rudolph Hoffmann",
+  "license": "Public domain",
+  "desc": "Carl Reichenbach (1788–1869)"
+ },
+ "c-mm": {
+  "file": "img/c-mm.jpg",
+  "title": "Michelson–Morley experiment",
+  "name": "Michelson_morley_experiment_1887.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Michelson_morley_experiment_1887.jpg",
+  "artist": "Case Western Reserve University",
+  "license": "Public domain",
+  "desc": "The Setup of Michelson Morley experiment in 1887 at what is now Case Western Reserve University."
+ },
+ "c-newtonium": {
+  "file": "img/c-newtonium.jpg",
+  "title": "Coronium",
+  "name": "Solar_eclipse_1999_4.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Solar_eclipse_1999_4.jpg",
+  "artist": "Luc Viatour",
+  "license": "CC BY-SA 3.0",
+  "desc": "Total Solar eclipse in France."
+ },
+ "c-sagnac": {
+  "file": "img/c-sagnac.png",
+  "title": "Sagnac effect",
+  "name": "Sagnac_interferometer.svg",
+  "page": "https://commons.wikimedia.org/wiki/File:Sagnac_interferometer.svg",
+  "artist": "Krishnavedala",
+  "license": "CC BY-SA 3.0",
+  "desc": "Sagnac interferometer with three mirrors."
+ },
+ "c-theosophy": {
+  "file": "img/c-theosophy.png",
+  "title": "Theosophical Society",
+  "name": "Theosophicalseal.svg",
+  "page": "https://commons.wikimedia.org/wiki/File:Theosophicalseal.svg",
+  "artist": "Frater5 (probable main designer of original emblem, Madame Blavatsky, died 1891)",
+  "license": "Public domain",
+  "desc": "Theosophical Seal (version of emblem of Theosophical society, adopted late 19th century): Two interlaced triangles (a form of the star of David), Ouroboros snake, manji, ankh, Om etc."
+ },
+ "c-anthroposophy": {
+  "file": "img/c-anthroposophy.jpg",
+  "title": "Goetheanum",
+  "name": "Goetheanum_Dornach2.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Goetheanum_Dornach2.jpg",
+  "artist": "Wladyslaw (talk), edits by: Dontpanic (aka Dogcow)",
+  "license": "CC BY-SA 3.0",
+  "desc": "Goetheanum, Dornach, Switzerland."
+ },
+ "c-wardenclyffe": {
+  "file": "img/c-wardenclyffe.jpeg",
+  "title": "Wardenclyffe Tower",
+  "name": "Tesla_Broadcast_Tower_1904.jpeg",
+  "page": "https://commons.wikimedia.org/wiki/File:Tesla_Broadcast_Tower_1904.jpeg",
+  "artist": "Unknown authorUnknown author (Life time: Unattributed)",
+  "license": "Public domain",
+  "desc": "Nikola Tesla's Wardenclyffe wireless station, located in Shoreham, New York, seen in 1904. The 187 foot (57 m) transmitting tower appears to rise from the building but actually stands on the ground be"
+ },
+ "c-orgone": {
+  "file": "img/c-orgone.jpg",
+  "title": "Orgone",
+  "name": "Orgone_Energy_Accumulator_(right-angle,_closed).JPG",
+  "page": "https://commons.wikimedia.org/wiki/File:Orgone_Energy_Accumulator_(right-angle,_closed).JPG",
+  "artist": "Gulpen",
+  "license": "CC BY-SA 3.0",
+  "desc": "Human-sized orgone energy accumulator (ORAC) with door closed. Design follows Wilhelm Reich's guidelines."
+ },
+ "c-casimir": {
+  "file": "img/c-casimir.png",
+  "title": "Casimir effect",
+  "name": "Casimir_plates.svg",
+  "page": "https://commons.wikimedia.org/wiki/File:Casimir_plates.svg",
+  "artist": "Emok",
+  "license": "CC BY-SA 3.0",
+  "desc": "Illustration of the Casimir effect."
+ },
+ "c-cmb": {
+  "file": "img/c-cmb.jpeg",
+  "title": "Cosmic microwave background",
+  "name": "Cosmic_Microwave_Background_(CMB).jpeg",
+  "page": "https://commons.wikimedia.org/wiki/File:Cosmic_Microwave_Background_(CMB).jpeg",
+  "artist": "ESA and the Planck Collaboration",
+  "license": "CC BY 4.0",
+  "desc": "This map of the Cosmic Microwave Background radiation, imprinted on the sky when the universe was 370,000 years old, shows tiny temperature fluctuations that correspond to regions of slightly differen"
+ },
+ "c-perpetual": {
+  "file": "img/c-perpetual.png",
+  "title": "Perpetual motion",
+  "name": "WaterScrewPerpetualMotion.png",
+  "page": "https://commons.wikimedia.org/wiki/File:WaterScrewPerpetualMotion.png",
+  "artist": "George A. Bockler",
+  "license": "Public domain",
+  "desc": "Water screw perpetum mobile"
+ },
+ "c-gw170817": {
+  "file": "img/c-gw170817.png",
+  "title": "GW170817",
+  "name": "GW170817_spectrograms.svg",
+  "page": "https://commons.wikimedia.org/wiki/File:GW170817_spectrograms.svg",
+  "artist": "LIGO Scientific Collaboration and Virgo Collaboration",
+  "license": "CC BY-SA 4.0",
+  "desc": "Time-frequency representations of data containing the gravitational-wave event GW170817, observed by the LIGO-Hanford (top), LIGO-Livingston (middle), and Virgo (bottom) detectors. Times are shown rel"
+ },
+ "c-higgs": {
+  "file": "img/c-higgs.png",
+  "title": "Higgs boson",
+  "name": "Candidate_Higgs_Events_in_ATLAS_and_CMS.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Candidate_Higgs_Events_in_ATLAS_and_CMS.png",
+  "artist": "CERN for the ATLAS and CMS Collaborations",
+  "license": "CC BY-SA 3.0",
+  "desc": "Candidate Higgs boson events from collisions between protons in the LHC"
+ },
+ "c-darkenergy": {
+  "file": "img/c-darkenergy.png",
+  "title": "Dark energy",
+  "name": "WMAP_2012.png",
+  "page": "https://commons.wikimedia.org/wiki/File:WMAP_2012.png",
+  "artist": "NASA / WMAP Science Team",
+  "license": "Public domain",
+  "desc": "CMB Images IMAGES &gt; CMB IMAGES &gt; NINE YEAR MICROWAVE SKY http://map.gsfc.nasa.gov/media/121238/index.html Nine Year Microwave Sky The detailed, all-sky picture of the infant universe created fro"
+ },
+ "c-ether-chem": {
+  "file": "img/c-ether-chem.png",
+  "title": "Diethyl ether",
+  "name": "Diethyl-ether-3D-balls.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Diethyl-ether-3D-balls.png",
+  "artist": "Benjah-bmm27",
+  "license": "Public domain",
+  "desc": "3D structure of diethyl ether"
+ },
+ "c-kirlian": {
+  "file": "img/c-kirlian.png",
+  "title": "Kirlian photography",
+  "name": "Kirl66_g.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Kirl66_g.png",
+  "artist": "The original uploader was Chemikus69 at German Wikipedia. (Original text: Chemikus69)",
+  "license": "CC BY-SA 2.0 de",
+  "desc": "Kirlian photograph of two german one pfennig coins. Own, self-constructed Kirlian camera. Transparent electrode, recorded on slide film."
+ }
+}
