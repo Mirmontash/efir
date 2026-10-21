@@ -1,6 +1,6 @@
 {
- "name": "Атлас эфира",
- "short_name": "Атлас эфира",
+ "name": "МЭфир",
+ "short_name": "МЭфир",
  "start_url": "./",
  "scope": "./",
  "display": "standalone",
@@ -16,7 +16,8 @@
   {
    "src": "icon-512.png",
    "sizes": "512x512",
-   "type": "image/png"
+   "type": "image/png",
+   "purpose": "any"
   }
  ]
 }
